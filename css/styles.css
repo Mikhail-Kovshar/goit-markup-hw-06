@@ -694,8 +694,7 @@ body {
 }
 
 .modal-form-checkbox:focus + .modal-check-icon {
-  background-color: var(--hover-focus-color);
-  border: none;
+  border-color: var(--hover-focus-color);
 }
 .link-modal {
   color: var(--hover-focus-color);
